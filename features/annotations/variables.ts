@@ -9,6 +9,6 @@ let car: Car = new Car();
 
 let point: { x: number; y: number } = { x: 0, y: 0 };
 
-const clclNumeric: number = (x: number, y: number) => {
+const calclNumeric = (x: number, y: number): number => {
   return x + y;
 };
