@@ -32,3 +32,5 @@ const logWeather = ({
 }): void => {
   console.log(date, weather);
 };
+
+logWeather(forecast);
