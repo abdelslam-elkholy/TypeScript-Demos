@@ -282,7 +282,7 @@
 130/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/cjs/locales/de_CH/address/state_abbr.js1709679799036379834 0
 121/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/cjs/locales/fr/animal/snake.js1709679799032379673 0
 124/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/cjs/locales/fr_CH/animal/snake.js1709679799032379673 0
-69/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/src/index.ts1709679240539072148 0
+69/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/src/index.ts1709682361396274635 0
 130/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/types/locales/cz/company/adjective.d.ts1709679799912415159 0
 98/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/locale/sk.js1709679799032379673 0
 101/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/locale/en_GB.js1709679798664364817 0
@@ -1972,7 +1972,7 @@
 123/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/types/locales/hr/date/month.d.ts1709679800436436270 0
 126/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/cjs/locales/nb_NO/name/last_name.js1709679798932375637 0
 114/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/types/locales/nl/hacker1709679799924415643 1
-68/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/src/User.ts1709679751462406293 0
+68/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/src/User.ts1709682217685820762 0
 132/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/types/locales/en/commerce/department.d.ts1709679800064421286 0
 132/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/cjs/modules/image/providers/lorempixel.js1709679798936375799 0
 132/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/cjs/locales/en/name/female_middle_name.js1709679798688365787 0
