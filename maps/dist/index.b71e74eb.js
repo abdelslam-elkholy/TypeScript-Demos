@@ -584,20 +584,61 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 }
 
 },{}],"h7u1C":[function(require,module,exports) {
-/// <reference types="@types/google.maps" />
 // import { Company } from "./Company";
 // // import { User } from "./User";
 // const user = new User();
 // const company = new Company();
 // google.maps;
 // console.log(user);
-new google.maps.Map(document.getElementById("map"), {
-    zoom: 1,
-    center: {
-        lat: 0,
-        lng: 0
+var _customMap = require("./CustomMap");
+new (0, _customMap.CustomMap)();
+
+},{"./CustomMap":"4qzxZ"}],"4qzxZ":[function(require,module,exports) {
+/// <reference types="@types/google.maps" />
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "CustomMap", ()=>CustomMap);
+class CustomMap {
+    constructor(){
+        this.googleMap = new google.maps.Map(document.getElementById("map"), {
+            zoom: 1,
+            center: {
+                lat: 0,
+                lng: 0
+            }
+        });
     }
-});
+}
+
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"24OeF"}],"24OeF":[function(require,module,exports) {
+exports.interopDefault = function(a) {
+    return a && a.__esModule ? a : {
+        default: a
+    };
+};
+exports.defineInteropFlag = function(a) {
+    Object.defineProperty(a, "__esModule", {
+        value: true
+    });
+};
+exports.exportAll = function(source, dest) {
+    Object.keys(source).forEach(function(key) {
+        if (key === "default" || key === "__esModule" || Object.prototype.hasOwnProperty.call(dest, key)) return;
+        Object.defineProperty(dest, key, {
+            enumerable: true,
+            get: function() {
+                return source[key];
+            }
+        });
+    });
+    return dest;
+};
+exports.export = function(dest, destName, get) {
+    Object.defineProperty(dest, destName, {
+        enumerable: true,
+        get: get
+    });
+};
 
 },{}]},["kSSYV","h7u1C"], "h7u1C", "parcelRequire94c2")
 
