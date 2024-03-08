@@ -1924,7 +1924,7 @@
 134/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/cjs/locales/el/finance/credit_card/index.js1709679798808370631 0
 135/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/types/locales/de/address/street_address.d.ts1709679800540440458 0
 111/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/esm/locale/en_IE.mjs1709679799884414030 0
-69/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/src/index.ts1709754627519378006 0
+69/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/src/index.ts1709940396512960593 0
 130/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/types/locales/cz/company/adjective.d.ts1709679799912415159 0
 124/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/cjs/locales/fr_CH/animal/snake.js1709679799032379673 0
 132/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/types/locales/it/address/city_prefix.d.ts1709679800008419030 0
@@ -2104,10 +2104,10 @@
 125/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/cjs/locales/pl/cell_phone/index.js1709679798880373537 0
 128/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/types/locales/en/name/first_name.d.ts1709679800140424347 0
 113/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/esm/chunk-XOZOSSLW.mjs1709679799856412901 0
-61/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/dist1709682363308307167 1
+61/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/dist1709754627855389124 1
 127/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/types/locales/ko/company/prefix.d.ts1709679800492438525 0
 118/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/types/locales/en_AU/company1709679800584442231 1
-72/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/dist/index.html1709682363000301926 0
+72/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/dist/index.html1709754382506955917 0
 129/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/types/locales/ur/cell_phone/index.d.ts1709679800360433209 0
 138/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/types/locales/ur/address/secondary_address.d.ts1709679800516439492 0
 122/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/cjs/locales/nb_NO/name/index.js1709679798872373214 0
@@ -2308,7 +2308,7 @@
 120/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/cjs/locales/ar/name/suffix.js1709679799120383222 0
 124/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/types/locales/en/name/gender.d.ts1709679800212427247 0
 132/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/cjs/locales/nl/address/default_country.js1709679798620363041 0
-79/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/dist/index.b71e74eb.js1709682363064303014 0
+79/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/dist/index.b71e74eb.js1709754627783386741 0
 113/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/cjs/locales/en/finance1709679799144384189 1
 125/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/types/locales/ko/address/city.d.ts1709679800024419674 0
 122/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/cjs/locales/lv/address/state.js1709679799044380157 0
@@ -3789,7 +3789,7 @@
 110/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/cjs/locales/sk/name1709679799140384028 1
 120/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/cjs/locales/sk/name/prefix.js1709679799012378867 0
 131/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/cjs/locales/sk/name/female_first_name.js1709679798684365625 0
-67/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/index.html1709754382370956272 0
+67/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/index.html1709940142032066856 0
 117/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/cjs/locales/de_CH/index.js1709679798804370470 0
 136/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/types/locales/hy/address/default_country.d.ts1709679800060421124 0
 119/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/cjs/locales/sk/name/title.js1709679799140384028 0
@@ -5426,7 +5426,7 @@
 127/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/cjs/locales/pl/address/state_abbr.js1709679799040379995 0
 132/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/cjs/locales/pl/address/building_number.js1709679798524359165 0
 132/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/cjs/locales/pl/address/default_country.js1709679798620363041 0
-83/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/dist/index.b71e74eb.js.map1709682363212305534 0
+83/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/dist/index.b71e74eb.js.map1709754627831388329 0
 124/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/cjs/locales/pl/address/country.js1709679798580361427 0
 113/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/types/locales/he/color1709679800300430791 1
 136/home/abdelslam/Desktop/Courses/TypeScript-Practice/maps/node_modules/@faker-js/faker/dist/types/locales/en_ZA/name/male_first_name.d.ts1709679800412435303 0
