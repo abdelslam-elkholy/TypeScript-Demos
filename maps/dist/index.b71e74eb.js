@@ -608,6 +608,16 @@ class CustomMap {
             }
         });
     }
+    addUserMarker(user) {
+        new google.maps.Marker({
+            map: this.googleMap,
+            position: {
+                lat: user.location.lat,
+                lng: user.location.lng
+            }
+        });
+    }
+    addCompanyMarker(company) {}
 }
 
 },{"@parcel/transformer-js/src/esmodule-helpers.js":"24OeF"}],"24OeF":[function(require,module,exports) {
