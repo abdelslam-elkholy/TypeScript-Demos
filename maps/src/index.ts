@@ -8,5 +8,4 @@ const company = new Company();
 // console.log(user);
 import { CustomMap } from "./CustomMap";
 const customMap = new CustomMap();
-customMap.addUserMarker(user);
-customMap.addCompanyMarker(company);
+customMap.addMarker(user);
